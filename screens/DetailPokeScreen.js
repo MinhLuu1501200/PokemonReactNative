@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import React from 'react';
 import {TabView, SceneMap, TabBar} from 'react-native-tab-view';
-const windowWidth = Dimensions.get('window').width;
+const windowHeight = Dimensions.get('window').width;
 
 import {SvgUri, SvgCssUri} from 'react-native-svg';
 import {POKEMON_THEME} from '../const/TypePoke';

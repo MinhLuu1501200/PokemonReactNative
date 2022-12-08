@@ -74,7 +74,7 @@ const Evolution = ({primaryColor, detailPokemon}) => {
                       color={primaryColor}
                     />
                     <Text style={{color: '#000'}}>
-                      Lvl {element[index + 1]?.minLevel}
+                      Lvldasdad {element[index + 1]?.minLevel}
                     </Text>
                   </View>
                 )}
